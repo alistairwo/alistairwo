@@ -6,6 +6,6 @@ Hi! My name is Alistair and I am based in Brisbane, Australia.
 - 🔭 I’m currently working on ... CompTIA Certification
 - 🌱 I’m currently learning ... the basics
 - 👯 I’m looking to collaborate on ... something simple that I can learn as I go
-- 📫 How to reach me: @kimbapp on discord or @a_w_ol on twitter
+- 📫 How to reach me: @kimbapp on discord
 - ⚡ Fun fact: Going through a career change, looking to get into the information technology space!
 
